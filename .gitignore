@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Artifacts
+skill_space_pca.png
+test_resume.pdf
+create_test_pdf.py
+annotated_resumes.json
+walkthrough.md
+task.md
+implementation_plan.md
+
+# OS files
+.DS_Store
+Thumbs.db
